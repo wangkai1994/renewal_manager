@@ -1,0 +1,1570 @@
+2018-07-10 11:48:00,138 [Thread-1:123145398992896] [django.server:124] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 16348
+2018-07-10 11:48:00,174 [Thread-3:123145404248064] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2018-07-10 11:48:00,222 [Thread-5:123145404248064] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+2018-07-10 11:48:00,223 [Thread-6:123145409503232] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+2018-07-10 11:48:00,223 [Thread-4:123145398992896] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+2018-07-10 11:48:00,462 [Thread-7:123145398992896] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-10 11:48:00,462 [Thread-7:123145398992896] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-10 11:48:00,463 [Thread-7:123145398992896] [django.server:124] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 1981
+2018-07-10 13:50:39,159 [Thread-1:123145461637120] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-10 13:50:39,159 [Thread-1:123145461637120] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-10 13:50:39,161 [Thread-1:123145461637120] [django.server:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2034
+2018-07-10 13:51:13,609 [Thread-7:123145461637120] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin HTTP/1.1" 301 0
+2018-07-10 13:51:13,645 [Thread-8:123145466892288] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 302 0
+2018-07-10 13:51:13,757 [Thread-9:123145472147456] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1860
+2018-07-10 13:51:13,775 [Thread-10:123145477402624] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+2018-07-10 13:51:13,776 [Thread-11:123145461637120] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+2018-07-10 13:51:13,777 [Thread-12:123145466892288] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+2018-07-10 13:51:13,812 [Thread-13:123145461637120] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2018-07-10 13:51:13,826 [Thread-14:123145461637120] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+2018-07-10 13:51:13,832 [Thread-15:123145461637120] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+2018-07-10 13:53:00,904 [Thread-1:123145326137344] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1860
+2018-07-10 13:53:03,653 [Thread-3:123145331392512] [django.server:124] [basehttp:log_message] [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2018-07-10 13:53:03,784 [Thread-4:123145336647680] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4769
+2018-07-10 13:53:03,800 [Thread-5:123145341902848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2018-07-10 13:53:03,839 [Thread-6:123145347158016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2018-07-10 13:53:03,840 [Thread-7:123145326137344] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2018-07-10 13:53:03,841 [Thread-8:123145331392512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+2018-07-10 14:17:46,343 [Thread-1:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project
+2018-07-10 14:17:46,343 [Thread-1:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project
+2018-07-10 14:17:46,344 [Thread-1:123145576849408] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/project HTTP/1.1" 404 2814
+2018-07-10 14:17:48,166 [Thread-3:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:48,166 [Thread-3:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:48,167 [Thread-3:123145576849408] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/project/ HTTP/1.1" 404 2817
+2018-07-10 14:17:48,743 [Thread-4:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:48,743 [Thread-4:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:48,744 [Thread-4:123145576849408] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/project/ HTTP/1.1" 404 2817
+2018-07-10 14:17:49,115 [Thread-5:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:49,115 [Thread-5:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:49,115 [Thread-5:123145576849408] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/project/ HTTP/1.1" 404 2817
+2018-07-10 14:17:49,451 [Thread-6:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:49,451 [Thread-6:123145576849408] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/project/
+2018-07-10 14:17:49,451 [Thread-6:123145576849408] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/project/ HTTP/1.1" 404 2817
+2018-07-10 14:18:16,104 [Thread-7:123145576849408] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 52
+2018-07-10 14:19:02,276 [Thread-1:123145477750784] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4769
+2018-07-10 14:19:02,349 [Thread-3:123145483005952] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2018-07-10 14:19:02,351 [Thread-4:123145488261120] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2018-07-10 14:19:02,351 [Thread-5:123145493516288] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2018-07-10 14:19:02,396 [Thread-6:123145498771456] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2018-07-10 14:19:02,434 [Thread-7:123145504026624] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2018-07-10 14:19:02,436 [Thread-8:123145477750784] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2018-07-10 14:19:02,436 [Thread-9:123145483005952] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2018-07-10 14:19:02,438 [Thread-10:123145488261120] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2018-07-10 14:19:02,439 [Thread-11:123145477750784] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2018-07-10 14:21:15,985 [Thread-1:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5423
+2018-07-10 14:21:19,437 [Thread-3:123145552199680] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/renewal/project/ HTTP/1.1" 200 3260
+2018-07-10 14:21:19,459 [Thread-4:123145557454848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+2018-07-10 14:21:19,460 [Thread-7:123145573220352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2018-07-10 14:21:19,462 [Thread-9:123145552199680] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+2018-07-10 14:21:19,464 [Thread-8:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+2018-07-10 14:21:19,465 [Thread-10:123145557454848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+2018-07-10 14:21:19,469 [Thread-6:123145567965184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+2018-07-10 14:21:19,470 [Thread-11:123145573220352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2018-07-10 14:21:19,470 [Thread-12:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+2018-07-10 14:21:19,471 [Thread-13:123145552199680] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+2018-07-10 14:21:19,574 [Thread-5:123145562710016] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:21:19,638 [Thread-14:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2018-07-10 14:21:22,499 [Thread-15:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/renewal/project/add/ HTTP/1.1" 200 6532
+2018-07-10 14:21:22,520 [Thread-16:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+2018-07-10 14:21:22,523 [Thread-18:123145557454848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+2018-07-10 14:21:22,524 [Thread-19:123145562710016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20283
+2018-07-10 14:21:22,525 [Thread-20:123145567965184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2018-07-10 14:21:22,525 [Thread-21:123145573220352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2018-07-10 14:21:22,553 [Thread-22:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+2018-07-10 14:21:22,634 [Thread-17:123145552199680] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:21:22,718 [Thread-23:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+2018-07-10 14:21:22,719 [Thread-24:123145552199680] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+2018-07-10 14:21:40,585 [Thread-25:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "POST /admin/renewal/project/add/ HTTP/1.1" 302 0
+2018-07-10 14:21:40,742 [Thread-26:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/renewal/project/ HTTP/1.1" 200 4777
+2018-07-10 14:21:40,893 [Thread-27:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:21:40,941 [Thread-28:123145546944512] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2018-07-10 14:28:13,652 [Thread-1:123145471942656] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/renewal/project/ HTTP/1.1" 200 4512
+2018-07-10 14:28:13,795 [Thread-3:123145477197824] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:28:15,434 [Thread-4:123145482452992] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5826
+2018-07-10 14:28:15,853 [Thread-5:123145487708160] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5826
+2018-07-10 14:30:09,125 [Thread-1:123145489047552] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/renewal/project/ HTTP/1.1" 200 4512
+2018-07-10 14:30:09,256 [Thread-3:123145489047552] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:30:11,602 [Thread-4:123145489047552] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/renewal/project/ecf7ba74-efcc-4a8f-9fb7-b9e4c6477bcf/change/ HTTP/1.1" 200 6999
+2018-07-10 14:30:11,724 [Thread-5:123145489047552] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:43:17,367 [Thread-1:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin HTTP/1.1" 301 0
+2018-07-10 14:43:17,486 [Thread-3:123145489289216] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 247, in execute
+    res = self._query(query)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 411, in _query
+    rowcount = self._do_query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+    db.query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 292, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.ProgrammingError: (1146, "Table 'renewal_manager.xadmin_usersettings' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/dashboard.py", line 592, in get
+    self.widgets = self.get_widgets()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/dashboard.py", line 549, in get_widgets
+    if len(portal_pos):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/query.py", line 254, in __len__
+    self._fetch_all()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/query.py", line 1179, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 247, in execute
+    res = self._query(query)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 411, in _query
+    rowcount = self._do_query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+    db.query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 292, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'renewal_manager.xadmin_usersettings' doesn't exist")
+2018-07-10 14:43:17,486 [Thread-3:123145489289216] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 247, in execute
+    res = self._query(query)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 411, in _query
+    rowcount = self._do_query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+    db.query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 292, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.ProgrammingError: (1146, "Table 'renewal_manager.xadmin_usersettings' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/dashboard.py", line 592, in get
+    self.widgets = self.get_widgets()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/dashboard.py", line 549, in get_widgets
+    if len(portal_pos):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/query.py", line 254, in __len__
+    self._fetch_all()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/query.py", line 1179, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 247, in execute
+    res = self._query(query)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 411, in _query
+    rowcount = self._do_query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+    db.query(q)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/MySQLdb/connections.py", line 292, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'renewal_manager.xadmin_usersettings' doesn't exist")
+2018-07-10 14:43:17,666 [Thread-3:123145489289216] [django.server:124] [basehttp:log_message] [ERROR]- "GET /xadmin/ HTTP/1.1" 500 225856
+2018-07-10 14:43:39,734 [Thread-8:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:43:39,774 [Thread-9:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+2018-07-10 14:43:39,776 [Thread-11:123145499799552] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+2018-07-10 14:43:39,777 [Thread-14:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+2018-07-10 14:43:39,779 [Thread-10:123145494544384] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+2018-07-10 14:43:39,780 [Thread-12:123145505054720] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+2018-07-10 14:43:39,780 [Thread-13:123145510309888] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+2018-07-10 14:43:39,785 [Thread-15:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+2018-07-10 14:43:39,790 [Thread-17:123145494544384] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+2018-07-10 14:43:39,792 [Thread-18:123145499799552] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+2018-07-10 14:43:39,795 [Thread-21:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+2018-07-10 14:43:39,797 [Thread-19:123145505054720] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+2018-07-10 14:43:39,798 [Thread-20:123145510309888] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+2018-07-10 14:43:39,801 [Thread-16:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+2018-07-10 14:43:39,801 [Thread-22:123145515565056] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+2018-07-10 14:43:39,805 [Thread-23:123145494544384] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+2018-07-10 14:43:39,805 [Thread-24:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+2018-07-10 14:43:39,806 [Thread-25:123145499799552] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+2018-07-10 14:43:39,923 [Thread-26:123145505054720] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:43:39,957 [Thread-27:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+2018-07-10 14:43:54,519 [Thread-28:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/logout/ HTTP/1.1" 200 2679
+2018-07-10 14:43:54,549 [Thread-29:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 4174
+2018-07-10 14:43:56,385 [Thread-30:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 4167
+2018-07-10 14:43:56,414 [Thread-31:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 4174
+2018-07-10 14:43:59,571 [Thread-32:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "POST /xadmin/ HTTP/1.1" 200 4396
+2018-07-10 14:43:59,603 [Thread-33:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 4174
+2018-07-10 14:44:03,164 [Thread-34:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "POST /xadmin/ HTTP/1.1" 302 0
+2018-07-10 14:44:03,299 [Thread-35:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:44:03,434 [Thread-36:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:05,860 [Thread-37:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/group/ HTTP/1.1" 200 18680
+2018-07-10 14:44:05,884 [Thread-38:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3569
+2018-07-10 14:44:05,891 [Thread-41:123145499799552] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+2018-07-10 14:44:05,891 [Thread-42:123145505054720] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+2018-07-10 14:44:05,891 [Thread-40:123145494544384] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+2018-07-10 14:44:05,894 [Thread-44:123145510309888] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+2018-07-10 14:44:05,894 [Thread-43:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+2018-07-10 14:44:05,995 [Thread-39:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:07,132 [Thread-45:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/permission/ HTTP/1.1" 200 85123
+2018-07-10 14:44:07,184 [Thread-47:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+2018-07-10 14:44:07,268 [Thread-46:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:07,960 [Thread-48:123145484034048] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/authx/user/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 566, in get_field
+    return self.fields_map[field_name]
+KeyError: 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 330, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 307, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 568, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 406, in get
+    context = self.get_context()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 385, in get_context
+    'result_headers': self.result_headers(),
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 525, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 525, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 442, in result_header
+    return_attr=True
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 351, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'first_name' on User or authxuserAdminListAdminViewModelAdminViewCommAdminViewBaseAdminViewBaseAdminObjectViewobject
+2018-07-10 14:44:07,960 [Thread-48:123145484034048] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/authx/user/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 566, in get_field
+    return self.fields_map[field_name]
+KeyError: 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 330, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 307, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 568, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 406, in get
+    context = self.get_context()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 385, in get_context
+    'result_headers': self.result_headers(),
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 525, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 525, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/xadmin/views/list.py", line 442, in result_header
+    return_attr=True
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 351, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'first_name' on User or authxuserAdminListAdminViewModelAdminViewCommAdminViewBaseAdminViewBaseAdminObjectViewobject
+2018-07-10 14:44:08,051 [Thread-48:123145484034048] [django.server:124] [basehttp:log_message] [ERROR]- "GET /xadmin/authx/user/ HTTP/1.1" 500 241914
+2018-07-10 14:44:17,958 [Thread-49:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/permission/ HTTP/1.1" 200 85123
+2018-07-10 14:44:20,232 [Thread-50:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/group/ HTTP/1.1" 200 18680
+2018-07-10 14:44:20,360 [Thread-51:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:21,464 [Thread-52:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/permission/ HTTP/1.1" 200 85123
+2018-07-10 14:44:21,594 [Thread-53:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:22,292 [Thread-54:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/xadmin/log/ HTTP/1.1" 200 25156
+2018-07-10 14:44:22,326 [Thread-58:123145499799552] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+2018-07-10 14:44:22,329 [Thread-55:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+2018-07-10 14:44:22,330 [Thread-56:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+2018-07-10 14:44:22,330 [Thread-60:123145510309888] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+2018-07-10 14:44:22,330 [Thread-57:123145494544384] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+2018-07-10 14:44:22,333 [Thread-61:123145499799552] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+2018-07-10 14:44:22,337 [Thread-62:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+2018-07-10 14:44:22,341 [Thread-63:123145489289216] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+2018-07-10 14:44:22,346 [Thread-65:123145484034048] [django.server:124] [basehttp:log_message] [WARNING]- "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+2018-07-10 14:44:22,347 [Thread-64:123145494544384] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+2018-07-10 14:44:22,439 [Thread-59:123145505054720] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:22,498 [Thread-66:123145484034048] [django.server:124] [basehttp:log_message] [WARNING]- "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+2018-07-10 14:44:25,043 [Thread-67:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:44:25,181 [Thread-68:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:28,730 [Thread-69:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/xadmin/userwidget/add/?user=ff64eb4a-071b-4860-b237-5c4b02b5e963&page_id=home&_redirect=/xadmin/ HTTP/1.1" 200 13638
+2018-07-10 14:44:28,862 [Thread-70:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:44:35,349 [Thread-71:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:44:35,476 [Thread-72:123145484034048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:28,800 [Thread-1:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:58:28,945 [Thread-3:123145570426880] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:31,894 [Thread-4:123145575682048] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:58:32,018 [Thread-5:123145580937216] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:32,389 [Thread-6:123145586192384] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 9480
+2018-07-10 14:58:32,513 [Thread-7:123145591447552] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:36,249 [Thread-8:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/xadmin/userwidget/add/ HTTP/1.1" 200 13926
+2018-07-10 14:58:36,380 [Thread-9:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:42,884 [Thread-10:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/permission/ HTTP/1.1" 200 85123
+2018-07-10 14:58:43,016 [Thread-11:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:44,113 [Thread-12:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/group/ HTTP/1.1" 200 18680
+2018-07-10 14:58:44,240 [Thread-13:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 14:58:45,033 [Thread-14:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/auth/group/ HTTP/1.1" 200 18680
+2018-07-10 14:58:45,181 [Thread-15:123145565171712] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 15:44:33,361 [Thread-1:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 199
+2018-07-10 15:53:55,966 [Thread-3:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "OPTIONS /api/v1/renewal/project/ HTTP/1.1" 200 859
+2018-07-10 15:53:59,153 [Thread-4:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "OPTIONS /api/v1/renewal/project/ HTTP/1.1" 200 859
+2018-07-10 15:54:04,706 [Thread-5:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "OPTIONS /api/v1/renewal/project/ HTTP/1.1" 200 859
+2018-07-10 15:55:59,216 [Thread-6:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 507
+2018-07-10 15:55:59,283 [Thread-7:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 507
+2018-07-10 15:56:08,225 [Thread-8:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 507
+2018-07-10 15:58:38,121 [Thread-9:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 507
+2018-07-10 16:06:27,058 [Thread-10:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 507
+2018-07-10 16:10:39,649 [Thread-11:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 507
+2018-07-10 16:19:33,768 [Thread-12:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:21:54,633 [Thread-13:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:22:31,893 [Thread-14:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:22:55,545 [Thread-15:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:23:03,363 [Thread-16:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:26:18,828 [Thread-17:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:26:37,333 [Thread-18:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:31:07,945 [Thread-19:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:31:48,323 [Thread-20:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:31:58,830 [Thread-21:123145535229952] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 507
+2018-07-10 16:37:26,801 [Thread-1:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin HTTP/1.1" 301 0
+2018-07-10 16:37:27,133 [Thread-3:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 5835
+2018-07-10 16:37:27,162 [Thread-5:123145360228352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2018-07-10 16:37:27,162 [Thread-4:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+2018-07-10 16:37:27,163 [Thread-6:123145365483520] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+2018-07-10 16:37:27,195 [Thread-7:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2018-07-10 16:37:27,206 [Thread-8:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2018-07-10 16:37:27,207 [Thread-9:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2018-07-10 16:37:27,208 [Thread-10:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+2018-07-10 16:37:27,209 [Thread-11:123145360228352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+2018-07-10 16:37:27,209 [Thread-12:123145365483520] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+2018-07-10 16:37:30,313 [Thread-13:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/ HTTP/1.1" 200 10234
+2018-07-10 16:37:30,339 [Thread-15:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+2018-07-10 16:37:30,340 [Thread-16:123145360228352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+2018-07-10 16:37:30,340 [Thread-18:123145370738688] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+2018-07-10 16:37:30,341 [Thread-17:123145365483520] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+2018-07-10 16:37:30,342 [Thread-19:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+2018-07-10 16:37:30,344 [Thread-14:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+2018-07-10 16:37:30,355 [Thread-24:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+2018-07-10 16:37:30,355 [Thread-23:123145365483520] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+2018-07-10 16:37:30,356 [Thread-22:123145360228352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+2018-07-10 16:37:30,357 [Thread-25:123145370738688] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+2018-07-10 16:37:30,358 [Thread-20:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+2018-07-10 16:37:30,367 [Thread-26:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+2018-07-10 16:37:30,368 [Thread-27:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+2018-07-10 16:37:30,370 [Thread-28:123145360228352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+2018-07-10 16:37:30,370 [Thread-30:123145370738688] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+2018-07-10 16:37:30,371 [Thread-29:123145365483520] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+2018-07-10 16:37:30,372 [Thread-31:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+2018-07-10 16:37:30,477 [Thread-21:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:37:30,505 [Thread-32:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+2018-07-10 16:37:33,396 [Thread-33:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:37:33,424 [Thread-34:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+2018-07-10 16:37:33,428 [Thread-37:123145360228352] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+2018-07-10 16:37:33,429 [Thread-36:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+2018-07-10 16:37:33,430 [Thread-38:123145365483520] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+2018-07-10 16:37:33,431 [Thread-39:123145370738688] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+2018-07-10 16:37:33,434 [Thread-40:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+2018-07-10 16:37:33,435 [Thread-41:123145354973184] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+2018-07-10 16:37:33,536 [Thread-35:123145349718016] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:37:41,603 [Thread-42:123145344462848] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/authx/user/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 566, in get_field
+    return self.fields_map[field_name]
+KeyError: 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 330, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 307, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 568, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 405, in get
+    context = self.get_context()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 384, in get_context
+    'result_headers': self.result_headers(),
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 441, in result_header
+    return_attr=True
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 351, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'first_name' on User or authxuserAdminListAdminViewModelAdminViewCommAdminViewBaseAdminViewBaseAdminObjectViewobject
+2018-07-10 16:37:41,603 [Thread-42:123145344462848] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/authx/user/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 566, in get_field
+    return self.fields_map[field_name]
+KeyError: 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 330, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 307, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 568, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 405, in get
+    context = self.get_context()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 384, in get_context
+    'result_headers': self.result_headers(),
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 441, in result_header
+    return_attr=True
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 351, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'first_name' on User or authxuserAdminListAdminViewModelAdminViewCommAdminViewBaseAdminViewBaseAdminObjectViewobject
+2018-07-10 16:37:41,697 [Thread-42:123145344462848] [django.server:124] [basehttp:log_message] [ERROR]- "GET /xadmin/authx/user/ HTTP/1.1" 500 242994
+2018-07-10 16:37:43,663 [Thread-43:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:37:45,104 [Thread-44:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:37:45,234 [Thread-45:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:37:51,534 [Thread-46:123145344462848] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/authx/user/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 566, in get_field
+    return self.fields_map[field_name]
+KeyError: 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 330, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 307, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 568, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 405, in get
+    context = self.get_context()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 384, in get_context
+    'result_headers': self.result_headers(),
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 441, in result_header
+    return_attr=True
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 351, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'first_name' on User or authxuserAdminListAdminViewModelAdminViewCommAdminViewBaseAdminViewBaseAdminObjectViewobject
+2018-07-10 16:37:51,534 [Thread-46:123145344462848] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /xadmin/authx/user/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 566, in get_field
+    return self.fields_map[field_name]
+KeyError: 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 330, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 307, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/db/models/options.py", line 568, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'first_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 405, in get
+    context = self.get_context()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 384, in get_context
+    'result_headers': self.result_headers(),
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 524, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/xadmin/views/list.py", line 441, in result_header
+    return_attr=True
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/contrib/admin/utils.py", line 351, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'first_name' on User or authxuserAdminListAdminViewModelAdminViewCommAdminViewBaseAdminViewBaseAdminObjectViewobject
+2018-07-10 16:37:51,621 [Thread-46:123145344462848] [django.server:124] [basehttp:log_message] [ERROR]- "GET /xadmin/authx/user/ HTTP/1.1" 500 242994
+2018-07-10 16:37:53,917 [Thread-47:123145344462848] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:38:22,699 [Thread-1:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:38:22,835 [Thread-3:123145578217472] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:38:24,250 [Thread-4:123145583472640] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:38:24,397 [Thread-5:123145588727808] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:38:26,319 [Thread-6:123145593982976] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/xadmin/log/ HTTP/1.1" 200 25910
+2018-07-10 16:38:26,349 [Thread-10:123145583472640] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+2018-07-10 16:38:26,349 [Thread-7:123145599238144] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+2018-07-10 16:38:26,350 [Thread-8:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+2018-07-10 16:38:26,351 [Thread-9:123145578217472] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+2018-07-10 16:38:26,352 [Thread-12:123145593982976] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+2018-07-10 16:38:26,364 [Thread-14:123145578217472] [django.server:124] [basehttp:log_message] [WARNING]- "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+2018-07-10 16:38:26,365 [Thread-15:123145583472640] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+2018-07-10 16:38:26,366 [Thread-13:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+2018-07-10 16:38:26,368 [Thread-17:123145599238144] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+2018-07-10 16:38:26,368 [Thread-16:123145593982976] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+2018-07-10 16:38:26,458 [Thread-11:123145588727808] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:38:26,514 [Thread-18:123145572962304] [django.server:124] [basehttp:log_message] [WARNING]- "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+2018-07-10 16:38:27,657 [Thread-19:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 26156
+2018-07-10 16:38:27,791 [Thread-20:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:38:33,556 [Thread-21:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /xadmin/renewal/project/ HTTP/1.1" 200 10597
+2018-07-10 16:38:33,678 [Thread-22:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:38:34,689 [Thread-23:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /xadmin/renewal/project/ HTTP/1.1" 302 0
+2018-07-10 16:38:34,859 [Thread-24:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/renewal/project/ HTTP/1.1" 200 25577
+2018-07-10 16:38:34,993 [Thread-25:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /xadmin/jsi18n/ HTTP/1.1" 200 3185
+2018-07-10 16:40:37,134 [Thread-26:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 16:40:55,643 [Thread-27:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 16:42:06,613 [Thread-28:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 16:43:00,206 [Thread-29:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 16:51:20,001 [Thread-30:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 16:54:03,848 [Thread-31:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:00:19,964 [Thread-32:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:01:05,980 [Thread-33:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:03:07,639 [Thread-34:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:03:14,336 [Thread-35:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:03:17,978 [Thread-36:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:03:33,519 [Thread-37:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:04:07,197 [Thread-38:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:04:35,129 [Thread-39:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:07:19,192 [Thread-40:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:07:44,780 [Thread-41:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:07:53,955 [Thread-42:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:08:11,936 [Thread-43:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:08:23,539 [Thread-44:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:10:03,826 [Thread-45:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:10:15,506 [Thread-46:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:12:32,428 [Thread-47:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:15:16,242 [Thread-48:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:16:38,125 [Thread-49:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20 HTTP/1.1" 200 307
+2018-07-10 17:27:02,936 [Thread-50:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 307
+2018-07-10 17:29:20,176 [Thread-51:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 237
+2018-07-10 17:29:21,824 [Thread-52:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 238
+2018-07-10 17:29:23,890 [Thread-53:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 241
+2018-07-10 17:29:25,640 [Thread-54:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 244
+2018-07-10 17:29:27,292 [Thread-55:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 247
+2018-07-10 17:29:29,687 [Thread-56:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 247
+2018-07-10 17:29:32,585 [Thread-57:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 242
+2018-07-10 17:29:35,170 [Thread-58:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 243
+2018-07-10 17:38:41,433 [Thread-59:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2254
+2018-07-10 17:38:43,275 [Thread-60:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2254
+2018-07-10 17:39:08,914 [Thread-61:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2254
+2018-07-10 17:39:38,340 [Thread-62:123145572962304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2254
+2018-07-10 17:49:57,195 [Thread-1:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 201
+2018-07-10 17:49:59,778 [Thread-3:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 201
+2018-07-10 17:50:04,225 [Thread-4:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 201
+2018-07-10 17:50:06,107 [Thread-5:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 201
+2018-07-10 17:50:08,086 [Thread-6:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 201
+2018-07-10 17:50:10,772 [Thread-7:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 201
+2018-07-10 17:50:14,494 [Thread-8:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 202
+2018-07-10 17:50:16,863 [Thread-9:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 203
+2018-07-10 17:50:34,165 [Thread-10:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:51:20,315 [Thread-11:123145500164096] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:54:46,871 [Thread-1:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:54:49,797 [Thread-3:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:55:46,045 [Thread-4:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:56:06,989 [Thread-5:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:56:30,417 [Thread-6:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:56:54,350 [Thread-7:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:57:28,677 [Thread-8:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 17:57:36,552 [Thread-9:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:00:01,186 [Thread-10:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:02:14,440 [Thread-11:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:02:27,353 [Thread-12:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:06:02,009 [Thread-13:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:06:50,579 [Thread-14:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:06:54,522 [Thread-15:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:07:35,698 [Thread-16:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:08:46,612 [Thread-17:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:09:00,661 [Thread-18:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:09:28,215 [Thread-19:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:09:43,790 [Thread-20:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:09:52,397 [Thread-21:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:10:09,000 [Thread-22:123145566171136] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 201
+2018-07-10 18:13:01,077 [Thread-23:123145566171136] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 201
+2018-07-10 18:15:06,535 [Thread-24:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 1670
+2018-07-10 18:15:19,093 [Thread-25:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 202
+2018-07-10 18:15:35,940 [Thread-26:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 206
+2018-07-10 18:15:57,136 [Thread-27:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 2081
+2018-07-10 18:16:04,589 [Thread-28:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2081
+2018-07-10 18:16:43,939 [Thread-29:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2081
+2018-07-10 18:16:51,486 [Thread-31:123145571426304] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2081
+2018-07-10 18:16:51,512 [Thread-30:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 206
+2018-07-10 18:16:57,304 [Thread-32:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2151
+2018-07-10 18:17:08,360 [Thread-33:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2151
+2018-07-10 18:17:32,556 [Thread-34:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2151
+2018-07-10 18:17:41,160 [Thread-35:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 195
+2018-07-10 18:17:41,248 [Thread-36:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2151
+2018-07-10 18:17:46,608 [Thread-37:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2151
+2018-07-10 18:17:52,353 [Thread-38:123145566171136] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2151
+2018-07-10 18:19:21,946 [Thread-1:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2484
+2018-07-10 18:19:34,468 [Thread-3:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 182
+2018-07-10 18:19:34,561 [Thread-4:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2667
+2018-07-10 18:20:40,852 [Thread-5:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2667
+2018-07-10 18:21:02,298 [Thread-6:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2667
+2018-07-10 18:22:54,023 [Thread-7:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2667
+2018-07-10 18:23:05,583 [Thread-8:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:08,296 [Thread-9:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:08,621 [Thread-10:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:08,807 [Thread-11:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:10,845 [Thread-12:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:11,265 [Thread-13:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:13,950 [Thread-14:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/ HTTP/1.1" 405 42
+2018-07-10 18:23:48,502 [Thread-15:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2667
+2018-07-10 18:24:03,486 [Thread-16:123145405857792] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/v1/renewal/project/1
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/middleware/common.py", line 61, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/middleware/common.py", line 99, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via PATCH, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PATCH data. Change your form to point to localhost:9527/api/v1/renewal/project/1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2018-07-10 18:24:03,486 [Thread-16:123145405857792] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/v1/renewal/project/1
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/middleware/common.py", line 61, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/middleware/common.py", line 99, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via PATCH, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PATCH data. Change your form to point to localhost:9527/api/v1/renewal/project/1/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2018-07-10 18:24:03,558 [Thread-16:123145405857792] [django.server:124] [basehttp:log_message] [ERROR]- "PATCH /api/v1/renewal/project/1 HTTP/1.1" 500 72343
+2018-07-10 18:24:21,475 [Thread-17:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2667
+2018-07-10 18:24:27,050 [Thread-18:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 210
+2018-07-10 18:24:30,910 [Thread-19:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 216
+2018-07-10 18:28:21,046 [Thread-20:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2682
+2018-07-10 18:30:01,207 [Thread-21:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2682
+2018-07-10 18:34:26,405 [Thread-22:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2682
+2018-07-10 18:34:27,615 [Thread-23:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2682
+2018-07-10 18:34:34,304 [Thread-24:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2682
+2018-07-10 18:37:28,045 [Thread-25:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2682
+2018-07-10 18:37:32,883 [Thread-26:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 218
+2018-07-10 18:37:37,872 [Thread-27:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 207
+2018-07-10 18:40:41,302 [Thread-28:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2673
+2018-07-10 18:40:48,144 [Thread-29:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/13/ HTTP/1.1" 204 0
+2018-07-10 18:40:48,225 [Thread-30:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:41:10,951 [Thread-31:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:41:45,400 [Thread-32:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:43:01,416 [Thread-33:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:43:02,100 [Thread-34:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:43:35,526 [Thread-35:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 207
+2018-07-10 18:43:42,215 [Thread-36:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:43:50,370 [Thread-37:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=30&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:43:53,722 [Thread-38:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=10&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:44:51,218 [Thread-39:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:44:51,218 [Thread-39:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:44:51,218 [Thread-39:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/renewal/project/?page=2&limit=10&sort=%2Bid HTTP/1.1" 404 26
+2018-07-10 18:44:53,335 [Thread-40:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=10&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:44:57,983 [Thread-41:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:44:57,983 [Thread-41:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:44:57,984 [Thread-41:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/renewal/project/?page=2&limit=10&sort=%2Bid HTTP/1.1" 404 26
+2018-07-10 18:45:17,690 [Thread-42:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:45:17,690 [Thread-42:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:45:17,690 [Thread-42:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/renewal/project/?page=2&limit=20&sort=%2Bid HTTP/1.1" 404 26
+2018-07-10 18:45:17,706 [Thread-43:123145411112960] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=20&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:45:27,548 [Thread-44:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=50&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:45:29,626 [Thread-45:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&limit=30&sort=%2Bid HTTP/1.1" 200 2490
+2018-07-10 18:46:18,116 [Thread-46:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 2490
+2018-07-10 18:46:26,404 [Thread-47:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page_size=100 HTTP/1.1" 200 2490
+2018-07-10 18:46:30,786 [Thread-48:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page_size=11 HTTP/1.1" 200 2336
+2018-07-10 18:46:46,092 [Thread-49:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=20 HTTP/1.1" 200 2490
+2018-07-10 18:47:04,165 [Thread-50:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=20 HTTP/1.1" 200 2490
+2018-07-10 18:47:16,691 [Thread-51:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=20 HTTP/1.1" 200 2490
+2018-07-10 18:47:30,399 [Thread-52:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2150
+2018-07-10 18:47:34,262 [Thread-53:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=2&page_size=10 HTTP/1.1" 200 511
+2018-07-10 18:47:38,552 [Thread-54:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2150
+2018-07-10 18:47:42,736 [Thread-55:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10&limit=20 HTTP/1.1" 200 2159
+2018-07-10 18:47:57,649 [Thread-56:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10&limit=10 HTTP/1.1" 200 2159
+2018-07-10 18:47:59,466 [Thread-57:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10&limit=20 HTTP/1.1" 200 2159
+2018-07-10 18:48:19,004 [Thread-58:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2150
+2018-07-10 18:48:24,737 [Thread-59:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=2&page_size=10 HTTP/1.1" 200 511
+2018-07-10 18:48:26,215 [Thread-60:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:48:26,215 [Thread-60:123145405857792] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/renewal/project/
+2018-07-10 18:48:26,216 [Thread-60:123145405857792] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/renewal/project/?page=2&page_size=20 HTTP/1.1" 404 26
+2018-07-10 18:48:26,283 [Thread-61:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=20 HTTP/1.1" 200 2490
+2018-07-10 18:48:40,873 [Thread-62:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2150
+2018-07-10 18:49:10,039 [Thread-63:123145405857792] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 218
+2018-07-10 18:50:30,047 [Thread-1:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page_size=11 HTTP/1.1" 200 2336
+2018-07-10 18:50:34,159 [Thread-3:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2153
+2018-07-10 18:50:45,528 [Thread-4:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/12/ HTTP/1.1" 200 195
+2018-07-10 18:50:51,573 [Thread-5:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/3/ HTTP/1.1" 200 201
+2018-07-10 18:50:55,939 [Thread-6:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2153
+2018-07-10 18:51:03,300 [Thread-7:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/7/ HTTP/1.1" 200 202
+2018-07-10 18:51:03,541 [Thread-8:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/7/ HTTP/1.1" 200 202
+2018-07-10 18:51:05,503 [Thread-9:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2153
+2018-07-10 18:51:19,710 [Thread-10:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/7/ HTTP/1.1" 200 202
+2018-07-10 18:51:22,298 [Thread-11:123145316397056] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2153
+2018-07-10 18:51:41,426 [Thread-1:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 18:55:27,532 [Thread-3:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 18:55:54,183 [Thread-4:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 18:56:26,178 [Thread-5:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:14:21,933 [Thread-6:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:15:06,587 [Thread-7:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:15:56,936 [Thread-8:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:17:23,463 [Thread-9:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:24:11,822 [Thread-10:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:24:24,157 [Thread-11:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:24:43,714 [Thread-12:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:25:08,509 [Thread-13:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:25:20,188 [Thread-14:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:25:37,653 [Thread-15:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:26:03,248 [Thread-16:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:26:17,450 [Thread-17:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:26:22,647 [Thread-18:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:26:35,708 [Thread-19:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:26:49,017 [Thread-20:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:29:41,744 [Thread-21:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:29:43,570 [Thread-22:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:29:48,890 [Thread-23:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:29:57,179 [Thread-24:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:30:13,448 [Thread-25:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:30:22,869 [Thread-26:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:30:43,581 [Thread-27:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:32:36,844 [Thread-28:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:34:45,827 [Thread-29:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:35:27,496 [Thread-30:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:37:09,531 [Thread-31:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:37:22,430 [Thread-32:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:37:46,967 [Thread-33:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:38:13,189 [Thread-34:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:38:25,936 [Thread-35:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:38:55,380 [Thread-36:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:39:07,222 [Thread-37:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:39:48,156 [Thread-38:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:40:06,524 [Thread-39:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:40:29,849 [Thread-40:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:40:50,619 [Thread-41:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:41:07,855 [Thread-42:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/10/ HTTP/1.1" 200 206
+2018-07-10 19:41:11,927 [Thread-43:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:41:35,937 [Thread-44:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:41:43,450 [Thread-45:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/4/ HTTP/1.1" 200 201
+2018-07-10 19:41:59,843 [Thread-46:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2155
+2018-07-10 19:42:14,738 [Thread-47:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/2/ HTTP/1.1" 200 201
+2018-07-10 19:42:14,830 [Thread-48:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:42:35,159 [Thread-49:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/5/ HTTP/1.1" 200 201
+2018-07-10 19:42:35,278 [Thread-50:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:42:58,792 [Thread-51:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:43:24,565 [Thread-52:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/4/ HTTP/1.1" 200 201
+2018-07-10 19:43:24,666 [Thread-53:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:44:04,677 [Thread-54:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:44:13,813 [Thread-55:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:44:30,106 [Thread-56:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:44:51,603 [Thread-57:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:46:38,851 [Thread-58:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:48:12,817 [Thread-59:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:48:30,712 [Thread-60:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:48:53,942 [Thread-61:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:49:37,303 [Thread-62:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:49:53,260 [Thread-63:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:50:18,957 [Thread-64:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:50:50,973 [Thread-65:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:50:59,992 [Thread-66:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/2/ HTTP/1.1" 200 201
+2018-07-10 19:51:00,098 [Thread-67:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:53:04,874 [Thread-68:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:53:20,291 [Thread-69:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:53:50,696 [Thread-70:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:54:54,781 [Thread-71:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:55:13,740 [Thread-72:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:55:22,456 [Thread-73:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:55:31,467 [Thread-74:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:55:46,474 [Thread-75:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:56:47,941 [Thread-76:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2160
+2018-07-10 19:58:05,530 [Thread-77:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 200 243
+2018-07-10 19:58:05,639 [Thread-78:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2202
+2018-07-10 19:58:15,568 [Thread-79:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 200 537
+2018-07-10 19:58:15,672 [Thread-80:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2496
+2018-07-10 19:58:26,847 [Thread-81:123145358520320] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 400 44
+2018-07-10 19:58:30,370 [Thread-82:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 200 195
+2018-07-10 19:58:30,456 [Thread-83:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:58:36,595 [Thread-84:123145358520320] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 400 44
+2018-07-10 19:58:40,590 [Thread-85:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 200 195
+2018-07-10 19:58:40,690 [Thread-86:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 19:59:59,029 [Thread-87:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 20:00:42,236 [Thread-88:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/6/ HTTP/1.1" 200 195
+2018-07-10 20:00:42,326 [Thread-89:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-10 20:01:08,098 [Thread-90:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=50 HTTP/1.1" 200 2495
+2018-07-11 13:14:04,206 [Thread-91:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-11 13:14:09,042 [Thread-92:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2154
+2018-07-11 13:14:28,517 [Thread-93:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/8/ HTTP/1.1" 204 0
+2018-07-11 13:14:28,595 [Thread-94:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2152
+2018-07-11 13:14:35,234 [Thread-95:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/12/ HTTP/1.1" 204 0
+2018-07-11 13:14:35,305 [Thread-96:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 2095
+2018-07-11 13:14:39,886 [Thread-97:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/3/ HTTP/1.1" 204 0
+2018-07-11 13:14:39,956 [Thread-98:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1892
+2018-07-11 13:14:43,294 [Thread-99:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/7/ HTTP/1.1" 204 0
+2018-07-11 13:14:43,362 [Thread-100:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1689
+2018-07-11 13:14:46,501 [Thread-101:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/10/ HTTP/1.1" 204 0
+2018-07-11 13:14:46,568 [Thread-102:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1482
+2018-07-11 13:14:49,912 [Thread-103:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "DELETE /api/v1/renewal/project/9/ HTTP/1.1" 204 0
+2018-07-11 13:14:49,981 [Thread-104:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 13:26:18,204 [Thread-105:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 13:48:09,093 [Thread-106:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 14:04:37,227 [Thread-107:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 14:10:58,469 [Thread-108:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 14:11:18,112 [Thread-109:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 14:45:35,497 [Thread-110:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1279
+2018-07-11 14:45:43,468 [Thread-111:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 365
+2018-07-11 14:45:43,559 [Thread-112:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:55:50,576 [Thread-113:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:56:44,631 [Thread-114:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:57:05,952 [Thread-115:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:57:23,590 [Thread-116:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:57:32,131 [Thread-117:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:58:26,429 [Thread-118:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 14:59:07,206 [Thread-119:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:01:00,771 [Thread-120:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:04:35,951 [Thread-121:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:04:47,687 [Thread-122:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:05:16,756 [Thread-123:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:05:38,795 [Thread-124:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:05:52,727 [Thread-125:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:06:07,557 [Thread-126:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:06:49,907 [Thread-127:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:07:46,209 [Thread-128:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:08:18,426 [Thread-129:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:08:53,771 [Thread-130:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:10:23,055 [Thread-131:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:14:11,680 [Thread-132:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:14:15,400 [Thread-133:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:14:28,152 [Thread-134:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:14:42,971 [Thread-135:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:14:57,733 [Thread-136:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:15:29,117 [Thread-137:123145358520320] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 15:57:30,245 [Thread-1:123145393344512] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 16:10:30,731 [Thread-1:123145398583296] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/v1/renewal/project/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/viewsets.py", line 95, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 494, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 454, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 491, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/mixins.py", line 45, in list
+    return self.get_paginated_response(serializer.data)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 742, in data
+    ret = super(ListSerializer, self).data
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 660, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 660, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 504, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/fields.py", line 1280, in to_representation
+    'Expected a `date`, but got a `datetime`. Refusing to coerce, '
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2018-07-11 16:10:30,731 [Thread-1:123145398583296] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/v1/renewal/project/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/viewsets.py", line 95, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 494, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 454, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 491, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/mixins.py", line 45, in list
+    return self.get_paginated_response(serializer.data)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 742, in data
+    ret = super(ListSerializer, self).data
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 660, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 660, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/serializers.py", line 504, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/fields.py", line 1280, in to_representation
+    'Expected a `date`, but got a `datetime`. Refusing to coerce, '
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2018-07-11 16:10:30,791 [Thread-1:123145398583296] [django.server:124] [basehttp:log_message] [ERROR]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 500 21512
+2018-07-11 16:12:16,126 [Thread-1:123145459773440] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 1426
+2018-07-11 16:14:01,694 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:15:02,192 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:16:01,470 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:17:01,856 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:18:01,842 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:19:02,365 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:20:02,472 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:21:02,014 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:22:01,057 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:23:01,610 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:24:02,018 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:25:01,052 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:26:01,286 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:27:01,566 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:28:02,064 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:29:01,439 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:30:01,506 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:31:01,655 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:32:01,763 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:33:02,198 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 16:34:01,722 [MainThread:140736119886656] [api:7] [cron:my_scheduled_job] [WARNING]- hello world
+2018-07-11 17:22:58,393 [Thread-1:123145563983872] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 52
+2018-07-11 17:27:09,906 [Thread-3:123145563983872] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:27:58,212 [Thread-1:123145425801216] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:27:59,208 [Thread-3:123145425801216] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:27:59,461 [Thread-4:123145425801216] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:27:59,661 [Thread-5:123145425801216] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:28:00,394 [Thread-6:123145425801216] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:28:04,943 [Thread-7:123145425801216] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 52
+2018-07-11 17:28:16,597 [Thread-8:123145425801216] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:28:58,329 [Thread-1:123145439068160] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:29:00,842 [Thread-3:123145439068160] [django.server:124] [basehttp:log_message] [WARNING]- "POST /api/v1/renewal/project/ HTTP/1.1" 400 43
+2018-07-11 17:31:10,793 [Thread-4:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 52
+2018-07-11 17:31:18,178 [Thread-5:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 193
+2018-07-11 17:31:18,268 [Thread-6:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 245
+2018-07-11 17:32:08,697 [Thread-7:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 196
+2018-07-11 17:32:08,782 [Thread-8:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 248
+2018-07-11 17:32:14,101 [Thread-9:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 188
+2018-07-11 17:32:14,184 [Thread-10:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 240
+2018-07-11 17:32:23,656 [Thread-11:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 196
+2018-07-11 17:32:23,737 [Thread-12:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 248
+2018-07-11 17:32:42,977 [Thread-13:123145439068160] [django.server:124] [basehttp:log_message] [WARNING]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 400 48
+2018-07-11 17:33:08,956 [Thread-14:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "PATCH /api/v1/renewal/project/1/ HTTP/1.1" 200 197
+2018-07-11 17:33:09,035 [Thread-15:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 249
+2018-07-11 17:33:51,794 [Thread-16:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 199
+2018-07-11 17:33:51,877 [Thread-17:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 449
+2018-07-11 17:34:10,676 [Thread-18:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "POST /api/v1/renewal/project/ HTTP/1.1" 201 197
+2018-07-11 17:34:10,759 [Thread-19:123145439068160] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 19:17:15,454 [Thread-1:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 19:18:19,487 [Thread-3:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 19:21:47,980 [Thread-4:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 19:47:26,775 [Thread-5:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 19:47:46,724 [Thread-6:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 19:47:52,718 [Thread-7:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 20:04:43,565 [Thread-8:123145444290560] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 647
+2018-07-11 23:09:27,643 [DummyThread-1:4512345416] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-11 23:09:27,643 [DummyThread-1:4512345416] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-11 23:09:27,959 [DummyThread-1:4512345416] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-11 23:09:27,959 [DummyThread-1:4512345416] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-13 15:53:24,630 [Thread-1:123145435594752] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-13 15:53:24,630 [Thread-1:123145435594752] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-13 15:53:24,631 [Thread-1:123145435594752] [django.server:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2034
+2018-07-13 15:53:24,894 [Thread-3:123145440849920] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-13 15:53:24,894 [Thread-3:123145440849920] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-13 15:53:24,902 [Thread-3:123145440849920] [django.server:124] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2085
+2018-07-13 15:53:36,490 [Thread-4:123145436667904] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/
+2018-07-13 15:53:36,490 [Thread-4:123145436667904] [django.request:93] [base:get_response] [WARNING]- Not Found: /api/v1/
+2018-07-13 15:53:36,495 [Thread-4:123145436667904] [django.server:124] [basehttp:log_message] [WARNING]- "GET /api/v1/ HTTP/1.1" 404 2793
+2018-07-13 15:53:44,178 [Thread-5:123145456615424] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project HTTP/1.1" 301 0
+2018-07-13 15:53:44,948 [Thread-6:123145461870592] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 12023
+2018-07-13 15:53:44,967 [Thread-8:123145436667904] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2018-07-13 15:53:44,970 [Thread-9:123145456615424] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2018-07-13 15:53:44,970 [Thread-10:123145461870592] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2018-07-13 15:53:44,971 [Thread-7:123145467125760] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121200
+2018-07-13 15:53:44,973 [Thread-11:123145436667904] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+2018-07-13 15:53:44,978 [Thread-12:123145456615424] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2018-07-13 15:53:44,980 [Thread-13:123145436667904] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+2018-07-13 15:53:44,982 [Thread-15:123145467125760] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2018-07-13 15:53:44,982 [Thread-14:123145461870592] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37045
+2018-07-13 15:53:44,983 [Thread-16:123145472380928] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1262
+2018-07-13 15:53:45,047 [Thread-17:123145436667904] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2018-07-13 15:53:45,050 [Thread-18:123145436667904] [django.server:124] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+2018-07-13 15:54:01,768 [Thread-19:123145436667904] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 12023
+2018-07-13 15:54:04,322 [Thread-20:123145456615424] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/ HTTP/1.1" 200 12023
+2018-07-13 15:57:22,833 [Thread-1:123145460903936] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-13 15:57:22,833 [Thread-1:123145460903936] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-13 15:57:22,834 [Thread-1:123145460903936] [django.server:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2034
+2018-07-13 15:57:22,850 [Thread-3:123145466159104] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-13 15:57:22,850 [Thread-3:123145466159104] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-13 15:57:22,853 [Thread-3:123145466159104] [django.server:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2034
+2018-07-13 15:57:34,995 [Thread-8:123145461977088] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/auth/test HTTP/1.1" 301 0
+2018-07-13 15:57:34,999 [Thread-9:123145467232256] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/v1/auth/test/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/models.py", line 375, in prepare_url
+    scheme, auth, host, port, path, query, fragment = parse_url(url)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/urllib3/util/url.py", line 199, in parse_url
+    raise LocationParseError(url)
+urllib3.exceptions.LocationParseError: Failed to parse: https:www.baidu.com
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 494, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 454, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 491, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/decorators.py", line 53, in handler
+    return func(*args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/api/v1/auth/views.py", line 45, in test
+    r = requests.get("https:www.baidu.com")
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/api.py", line 72, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/sessions.py", line 498, in request
+    prep = self.prepare_request(req)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/sessions.py", line 441, in prepare_request
+    hooks=merge_hooks(request.hooks, self.hooks),
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/models.py", line 309, in prepare
+    self.prepare_url(url, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/models.py", line 377, in prepare_url
+    raise InvalidURL(*e.args)
+requests.exceptions.InvalidURL: Failed to parse: https:www.baidu.com
+2018-07-13 15:57:34,999 [Thread-9:123145467232256] [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/v1/auth/test/
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/models.py", line 375, in prepare_url
+    scheme, auth, host, port, path, query, fragment = parse_url(url)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/urllib3/util/url.py", line 199, in parse_url
+    raise LocationParseError(url)
+urllib3.exceptions.LocationParseError: Failed to parse: https:www.baidu.com
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 494, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 454, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/views.py", line 491, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/rest_framework/decorators.py", line 53, in handler
+    return func(*args, **kwargs)
+  File "/Users/wangkai/Desktop/workspace/fangdd/renewal_manager/api/v1/auth/views.py", line 45, in test
+    r = requests.get("https:www.baidu.com")
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/api.py", line 72, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/sessions.py", line 498, in request
+    prep = self.prepare_request(req)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/sessions.py", line 441, in prepare_request
+    hooks=merge_hooks(request.hooks, self.hooks),
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/models.py", line 309, in prepare
+    self.prepare_url(url, params)
+  File "/Users/wangkai/.pyenv/versions/renewal-manager/lib/python3.6/site-packages/requests/models.py", line 377, in prepare_url
+    raise InvalidURL(*e.args)
+requests.exceptions.InvalidURL: Failed to parse: https:www.baidu.com
+2018-07-13 15:57:35,126 [Thread-9:123145467232256] [django.server:124] [basehttp:log_message] [ERROR]- "GET /api/v1/auth/test/ HTTP/1.1" 500 135967
+2018-07-13 15:57:52,506 [Thread-1:123145465135104] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/auth/test/ HTTP/1.1" 200 5219
+2018-07-13 16:01:42,638 [Thread-5:123145465135104] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/auth/test/ HTTP/1.1" 200 5219
+2018-07-13 16:02:03,622 [Thread-6:123145470390272] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/auth/test/ HTTP/1.1" 200 5219
+2018-07-13 16:24:29,729 [Thread-12:123145465135104] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/auth/test/ HTTP/1.1" 200 5219
+2018-07-16 19:06:49,520 [Thread-1:123145571635200] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-16 19:06:49,520 [Thread-1:123145571635200] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-16 19:06:49,522 [Thread-1:123145571635200] [django.server:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2034
+2018-07-16 19:06:50,247 [Thread-3:123145576890368] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-16 19:06:50,247 [Thread-3:123145576890368] [django.request:93] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-07-16 19:06:50,251 [Thread-4:123145571635200] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-16 19:06:50,251 [Thread-4:123145571635200] [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-07-16 19:06:50,252 [Thread-3:123145576890368] [django.server:124] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2085
+2018-07-16 19:06:50,252 [Thread-4:123145571635200] [django.server:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2034
+2018-07-16 19:15:02,907 [Thread-7:123145571635200] [django.server:124] [basehttp:log_message] [INFO]- "GET /api/v1/renewal/project/?page=1&page_size=10 HTTP/1.1" 200 247
